@@ -2,7 +2,8 @@
 
 Copy of Instagram's landing page.
 
-With responsive media queries for tablet and mobile.
+- Responsive media queries for tablet and mobile.
+- Animation on cell phone screen
 
 
 
