@@ -38,7 +38,6 @@ body {
     padding: 0 0 112px 0;
 
     animation-name: transition;
-    animation-delay: 2s;
     animation-duration: 20s;
     animation-direction: alternate;
     animation-iteration-count: infinite;
@@ -46,7 +45,7 @@ body {
 
 @keyframes transition {
     0% {opacity: 0}
-    40% {opacity: 0}
+    35% {opacity: 0}
     100% {opacity: 1;}
 }
 
